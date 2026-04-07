@@ -1,0 +1,13 @@
+body {
+    background-color: #1C1F21; /* 212529 */
+    font-family: "Mochiy Pop One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+[data-bs-theme="light"].carousel .carousel-control-prev-icon,
+[data-bs-theme="light"].carousel .carousel-control-next-icon,
+[data-bs-theme="light"].carousel .carousel-control-prev-icon,
+[data-bs-theme="light"].carousel .carousel-control-next-icon {
+  filter: none;
+}
