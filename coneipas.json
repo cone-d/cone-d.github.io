@@ -1,0 +1,50 @@
+{
+  "name": "Cone's Library",
+  "subtitle": "IPAs that I like",
+  "description": "Don't expect this to be maintained",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://cone_d.github.io",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.gameloft.Spiderman"
+  ],
+  "apps": [
+    {
+      "name": "Spider-Man Unlimited",
+      "bundleIdentifier": "com.gameloft.Spiderman",
+      "marketplaceID": "",
+      "developerName": "Spidey-Hub",
+      "subtitle": "Revived by the Community",
+      "localizedDescription": "https://spidey-hub.weebly.com/download.html",
+      "iconURL": "https://i.imgur.com/P1VMzbm.png",
+      "tintColor": "#d42425",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://download2435.mediafire.com/myue75vonguguBbewIhnp2iEV4fq1YyxngNxJ-ari8Rcr3v6cY3lIdxHlX_qWAOOjOkTTJ7aJvo9FO7Psu0JTsJnhvkRaA3PjczPdQJ4JvrEVmyzwprTQt8KklCdc79zWMlFrCDlT0s0RydWm97fFayGziCMYlHNNMOl7Ud07G0e/7gs9p0powwvavb5/Spider-Man+Unlimited+v4.9.9c.ipa",
+          "size": 730900000,
+          "version": "4.9.9c",
+          "buildVersion": null,
+          "date": "2026-04-07T23:19:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Some ad content may access calendar",
+          "NSCameraUsageDescription": "Take selfies",
+          "NSContactsUsageDescription": "To invite new players through eMail contacts",
+          "NSLocationWhenInUseUsageDescription": "To allow for displaying ads and leaderboards which are geographically relevant",
+          "NSMotionUsageDescription": "Interact with ads",
+          "NSPhotoLibraryUsageDescription": "Take selfies"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
