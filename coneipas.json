@@ -1,15 +1,62 @@
 {
   "name": "Cone's Library",
-  "subtitle": "IPAs that I like",
-  "description": "Don't expect this to be maintained",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "subtitle": "Don't expect this to be maintained",
+  "description": "",
+  "iconURL": "https://i.redd.it/ip711axi0eub1.jpg",
   "website": "https://cone_d.github.io",
   "patreonURL": "",
-  "tintColor": "#6156e2",
+  "tintColor": "#3c2fda",
   "featuredApps": [
-    "com.gameloft.Spiderman"
+    "com.gameloft.Spiderman",
+    "com.nianticlabs.pokemongo"
   ],
+  "headerURL": "https://wallpapercave.com/wp/wp4845837.jpg",
   "apps": [
+    {
+      "name": "iPoGo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "marketplaceID": "",
+      "developerName": "iPoGo Team",
+      "subtitle": "The Most Advanced Spoofing App",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/l2YwrbN.png",
+      "tintColor": "#2858d1",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipogo.app/download/ipogo-4.1.9.ipa",
+          "size": 146900000,
+          "version": "0.405.0",
+          "buildVersion": "4.1.9",
+          "date": "2026-04-07T23:52:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSBluetoothAlwaysUsageDescription": "Allows pairing to devices including peripherals and consoles.",
+          "NSLocationAlwaysUsageDescription": "Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!",
+          "NSCameraUsageDescription": "Enabling this setting allows you to use AR when catching Pokémon.",
+          "NSUserTrackingUsageDescription": "If you enable this setting, your information can be used to deliver personalized ads to you regarding Pokémon GO exclusive offers, promotions, and events.",
+          "NSBluetoothPeripheralUsageDescription": "Allows for usage of the Pokémon GO Plus",
+          "NSPhotoLibraryAddUsageDescription": "In order to save pictures of encountered Pokémon",
+          "NSMotionUsageDescription": "Pokémon GO requires your mobile device’s motion permissions to be enabled in order to let you know when new Pokémon are nearby.",
+          "NSHealthUpdateUsageDescription": "Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.",
+          "NSHealthShareUsageDescription": "Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.",
+          "NSCalendarsUsageDescription": "In order to add Live Event calendar items",
+          "NSLocationWhenInUseUsageDescription": "Pokémon GO requires your mobile device’s location permissions to be enabled in order to find Pokémon and PokéStops near you.",
+          "NSMicrophoneUsageDescription": "not used",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!",
+          "NSContactsUsageDescription": "Pokémon GO needs to access and upload your contacts to our servers to send game invites and friend requests to people in your address book.",
+          "NSPhotoLibraryUsageDescription": "In order to save pictures of encountered Pokémon"
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "Spider-Man Unlimited",
       "bundleIdentifier": "com.gameloft.Spiderman",
@@ -23,12 +70,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://download2435.mediafire.com/myue75vonguguBbewIhnp2iEV4fq1YyxngNxJ-ari8Rcr3v6cY3lIdxHlX_qWAOOjOkTTJ7aJvo9FO7Psu0JTsJnhvkRaA3PjczPdQJ4JvrEVmyzwprTQt8KklCdc79zWMlFrCDlT0s0RydWm97fFayGziCMYlHNNMOl7Ud07G0e/7gs9p0powwvavb5/Spider-Man+Unlimited+v4.9.9c.ipa",
-          "size": 730900000,
           "version": "4.9.9c",
-          "buildVersion": null,
           "date": "2026-04-07T23:19:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://download2435.mediafire.com/myue75vonguguBbewIhnp2iEV4fq1YyxngNxJ-ari8Rcr3v6cY3lIdxHlX_qWAOOjOkTTJ7aJvo9FO7Psu0JTsJnhvkRaA3PjczPdQJ4JvrEVmyzwprTQt8KklCdc79zWMlFrCDlT0s0RydWm97fFayGziCMYlHNNMOl7Ud07G0e/7gs9p0powwvavb5/Spider-Man+Unlimited+v4.9.9c.ipa",
+          "size": 730900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
