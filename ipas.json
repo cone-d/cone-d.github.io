@@ -15,7 +15,6 @@
     {
       "name": "iPoGo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "marketplaceID": "",
       "developerName": "iPoGo Team",
       "subtitle": "The Most Advanced Spoofing App",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -27,8 +26,7 @@
         {
           "downloadURL": "https://ipogo.app/download/ipogo-4.1.9.ipa",
           "size": 146900000,
-          "version": "0.405.0",
-          "buildVersion": "4.1.9",
+          "version": "4.1.9",
           "date": "2026-04-07T23:52:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
@@ -60,7 +58,6 @@
     {
       "name": "Spider-Man Unlimited",
       "bundleIdentifier": "com.gameloft.Spiderman",
-      "marketplaceID": "",
       "developerName": "Spidey-Hub",
       "subtitle": "Revived by the Community",
       "localizedDescription": "https://spidey-hub.weebly.com/download.html",
@@ -75,7 +72,6 @@
           "localizedDescription": null,
           "downloadURL": "https://download2435.mediafire.com/myue75vonguguBbewIhnp2iEV4fq1YyxngNxJ-ari8Rcr3v6cY3lIdxHlX_qWAOOjOkTTJ7aJvo9FO7Psu0JTsJnhvkRaA3PjczPdQJ4JvrEVmyzwprTQt8KklCdc79zWMlFrCDlT0s0RydWm97fFayGziCMYlHNNMOl7Ud07G0e/7gs9p0powwvavb5/Spider-Man+Unlimited+v4.9.9c.ipa",
           "size": 730900000,
-          "buildVersion": null,
           "minOSVersion": null
         }
       ],
