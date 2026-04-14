@@ -13,22 +13,81 @@
   "headerURL": "https://wallpapercave.com/wp/wp4845837.jpg",
   "apps": [
     {
+      "name": "Increase Ram Limit",
+      "bundleIdentifier": "com.stos.Entitlement",
+      "marketplaceID": "",
+      "developerName": "hugeBlack",
+      "subtitle": "Increase Ram Limits for Applications",
+      "localizedDescription": "Sideload this app\nGo to settings, sign in your account that you used to sign the app you want to enable \"Increased Memory Limit\"\nGo to \"App IDs\" page\nTap Refresh\nTap the app you want to enable \"Increased Memory Limit\"\nTap \"Add Increased Memory Limit\"\nReinstall the app from SideStore/AltStore\nCheck if you have \"Increased Memory Limit\"",
+      "tintColor": "#a2a2a2",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/Entitlement.ipa",
+          "size": 2600000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-04-14T19:44:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MeloNX",
+      "bundleIdentifier": "com.stossy11.MeloNX",
+      "marketplaceID": "",
+      "developerName": "MeloNX Team",
+      "subtitle": "Nintendo Switch Emulator",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/8r6glTb.png",
+      "tintColor": "#045e9c",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.3.1/MeloNX.ipa",
+          "size": 94200000,
+          "version": "2.3.1",
+          "buildVersion": null,
+          "date": "2026-04-14T19:42:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "MeloNX needs access to your Photo Library in order to save images"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "iPoGo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "marketplaceID": "",
       "developerName": "iPoGo Team",
       "subtitle": "The Most Advanced Spoofing App",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/l2YwrbN.png",
       "tintColor": "#2858d1",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://ipogo.app/download/ipogo-4.1.9.ipa",
-          "size": 146900000,
           "version": "4.1.9",
           "date": "2026-04-07T23:52:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://ipogo.app/download/ipogo-4.1.9.ipa",
+          "size": 146900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -58,6 +117,7 @@
     {
       "name": "Spider-Man Unlimited",
       "bundleIdentifier": "com.gameloft.Spiderman",
+      "marketplaceID": "",
       "developerName": "Spidey-Hub",
       "subtitle": "Revived by the Community",
       "localizedDescription": "https://spidey-hub.weebly.com/download.html",
@@ -72,6 +132,7 @@
           "localizedDescription": null,
           "downloadURL": "https://download2435.mediafire.com/myue75vonguguBbewIhnp2iEV4fq1YyxngNxJ-ari8Rcr3v6cY3lIdxHlX_qWAOOjOkTTJ7aJvo9FO7Psu0JTsJnhvkRaA3PjczPdQJ4JvrEVmyzwprTQt8KklCdc79zWMlFrCDlT0s0RydWm97fFayGziCMYlHNNMOl7Ud07G0e/7gs9p0powwvavb5/Spider-Man+Unlimited+v4.9.9c.ipa",
           "size": 730900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
