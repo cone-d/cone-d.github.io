@@ -19,7 +19,7 @@
       "developerName": "Stremio",
       "subtitle": "Stream movies and shows",
       "localizedDescription": "https://www.stremio.com/",
-      "iconURL": "https:\\/\\/ipa.cypwn.xyz\\/serve\\/icons\\/Stremio-1.3.6.png",
+      "iconURL": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stremio.webp",
       "tintColor": "#5f2fda",
       "category": "entertainment",
       "screenshots": [],
